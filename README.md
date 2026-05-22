@@ -5,12 +5,12 @@ A simple repository to track and solve LeetCode Daily Questions consistently. Th
 This repository contains solutions for LeetCode Daily Challenges organized by date.
 Each solution includes:
 
--> Problem name
--> Difficulty level
--> Date
--> Source code
+- Problem name
+- Difficulty level
+- Date
+- Source code
 
 The goal is to:
--> Practice DSA regularly
--> Improve coding interview preparation
--> Maintain consistency through daily problem solving
+- Practice DSA regularly
+- Improve coding interview preparation
+- Maintain consistency through daily problem solving
