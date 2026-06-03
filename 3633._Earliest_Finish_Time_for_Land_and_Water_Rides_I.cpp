@@ -1,5 +1,6 @@
 /*
 Problem Name:3633. Earliest Finish Time for Land and Water Rides I  
+Difficulty: Easy
 Date: 02/06/2026
 */
 class Solution {
